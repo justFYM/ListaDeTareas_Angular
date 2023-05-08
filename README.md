@@ -1,8 +1,8 @@
 # ```Lista de tareas - Angular```
 
-Este proyecto fue realizado de forma autodidacta con la intención de profundizar en los conceptos principales de Angular, como los componentes, servicios, pipes y modelos. Para lograrlo, se desarrolló una lista de tareas ocupando la tecnología que ofrece Angular.
+Este proyecto fue realizado de forma autodidacta con la intención de profundizar en los conceptos principales de Angular, como los componentes, servicios, pipes y modelos. Para lograrlo, se desarrolló una lista de tareas ocupando la tecnología que ofrece Angular y RxJS.
 
-La lista de tareas cuenta con varias características destacables. Una de ellas es el almacenamiento de información en el LocalStorage, lo que permite que la información se mantenga aún cuando se cierra el navegador. Además, el proyecto incorpora validaciones al momento de ingresar el nombre de una tarea, lo que asegura que los datos ingresados cumplan con un formato adecuado. También se ha implementado la funcionalidad de cambiar el color del borde del campo de texto según los datos ingresados cumplan con el formato establecido.  
+La lista de tareas cuenta con varias características destacables. Una de ellas es el almacenamiento de información en el LocalStorage. Además, el proyecto incorpora validaciones al momento de ingresar el nombre de una tarea, lo que asegura que los datos ingresados cumplan con un formato adecuado. También se ha implementado la funcionalidad de cambiar el color del borde del campo de texto según los datos ingresados cumplan con el formato establecido.  
 Debido a que se generaron los archivos estáticos del proyecto, es posible visualizar el sitio web en ejecución a través de la siguiente URL: https://justfym.github.io/ListaDeTareas_Angular/
 
 
